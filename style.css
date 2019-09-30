@@ -1,0 +1,18 @@
+th {
+    border: none;
+}
+
+ 
+
+input {
+    width: 20rem;
+    border: none;
+    text-align: center;
+}
+
+ 
+
+td  {
+    border: solid;
+    padding: 25px  25px 25px 25px;
+}
